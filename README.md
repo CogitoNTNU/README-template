@@ -22,6 +22,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+   <li><a href="#team">Team</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
