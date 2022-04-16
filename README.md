@@ -60,7 +60,7 @@ Right to left: [@JonRodtang](https://github.com/Jonrodtang)    [@example](https:
 
 #### License
 ------
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `[LICENSE](https://github.com/CogitoNTNU/README-template/blob/main/LICENSE)` for more information.
 
 ------
 
