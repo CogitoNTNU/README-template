@@ -51,7 +51,8 @@ At elementum eu facilisis sed. Viverra nam libero justo laoreet sit amet cursus 
 <div align="center">
 <img src="https://cogito-ntnu.no/static/img/projects/erpokerpfpwekwpkerwer.png"></img>
 </div>
-Right to left: [@JonRodtang](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)
+
+Right to left: [@JonRodtang](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)    [@example](https://github.com/Jonrodtang)  
 #### Leader(s):
 - [Jon Rødtang](https://github.com/Jonrodtang)
 - [Example exampleson](https://github.com/Jonrodtang)
