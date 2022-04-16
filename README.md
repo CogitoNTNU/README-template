@@ -1,11 +1,20 @@
 <div id="top"></div>
 
-# README-template
+
 <!--INSERT PICTURE REPRESENTATIVE OF PROJECT-->
 <div align="center">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Khns8mi5ov-qN64yFABHmAHaE7%26pid%3DApi&f=1"></img>
 </div>
+<p align="center">
+<a href="https://github.com/CogitoNTNU/README-template/blob/main/LICENSE" alt="LICENSE">
+        <img src="https://img.shields.io/badge/license-MIT-green"></img></a>
 
+<a href="" alt="platform">
+        <img src="https://img.shields.io/badge/platform-linux%7Cwindows%7CmacOS-lightgrey"></img></a>
+<a href="" alt="version">
+        <img src="https://img.shields.io/badge/version-0.0.1-blue"></img></a>
+</p>
+<h3 align="center">README-template</h3>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
