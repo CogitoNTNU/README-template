@@ -747,7 +747,7 @@ wheels = [
 ]
 
 [[package]]
-name = "template-readme"
+name = "PROJECT-TEMPLATE"
 version = "0.0.1"
 source = { virtual = "." }
 
