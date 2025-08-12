@@ -18,8 +18,8 @@
 
 - [TEMPLATE-README](#template-readme)
   - [Description](#description)
+  - [🛠️ Prerequisites](#%EF%B8%8F-prerequisites)
   - [Getting started](#getting-started)
-    - [🛠️ Prerequisites](#%EF%B8%8F-prerequisites)
   - [Usage](#usage)
     - [📖 Generate Documentation Site](#-generate-documentation-site)
   - [Testing](#testing)
@@ -32,23 +32,7 @@
 
 <!-- TODO: Provide a brief overview of what this project does and its key features. Please add pictures or videos of the application -->
 
-## Getting started
-
-<!-- TODO: In this Section you describe how to install this project in its intended environment.(i.e. how to get it to run)  
--->
-
-<!-- TODO: Describe how to configure the project (environment variables, config files, etc.).
-
-### Configuration
-Create a `.env` file in the root directory of the project and add the following environment variables:
-
-```bash
-OPENAI_API_KEY = 'your_openai_api_key'
-MONGODB_URI = 'your_secret_key'
-```
--->
-
-### 🛠️ Prerequisites
+## 🛠️ Prerequisites
 
 <!-- TODO: In this section you put what is needed for the program to run.
 For example: OS version, programs, libraries, etc.  
@@ -59,6 +43,38 @@ For example: OS version, programs, libraries, etc.
 - **Python 3.12**: Required for the project. [Download Python](https://www.python.org/downloads/)
 - **UV**: Used for managing Python environments. [Install UV](https://docs.astral.sh/uv/getting-started/installation/)
 - **Docker** (optional): For DevContainer development. [Download Docker](https://www.docker.com/products/docker-desktop)
+
+## Getting started
+
+<!-- TODO: In this Section you describe how to install this project in its intended environment.(i.e. how to get it to run)  
+-->
+
+1. **Clone the repository**:
+
+   ```sh
+   git clone https://github.com/CogitoNTNU/TEMPLATE-README.git
+   cd TEMPLATE-README
+   ```
+
+1. **Install dependencies**:
+
+   ```sh
+   uv sync
+   ```
+
+<!--
+1. **Configure environment variables**:
+    This project uses environment variables for configuration. Copy the example environment file to create your own:
+    ```sh
+    cp .env.example .env
+    ```
+    Then edit the `.env` file to include your specific configuration settings.
+-->
+
+1. **Set up pre commit** (only for development):
+   ```sh
+   uv run pre-commit install
+   ```
 
 ## Usage
 
